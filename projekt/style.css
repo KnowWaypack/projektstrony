@@ -1,0 +1,68 @@
+
+body{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+.bg{
+    width: 50vw;
+    background-color: white;
+    height: 110;
+}
+header{
+    border:  2px solid black;
+}
+.opis{
+    background-color: grey;
+    border: 2px red solid;
+    margin-left: 5vw;
+    margin-top: 2vh;
+    margin-right: 5vw;
+}
+.dane{
+    margin-left: 8vw;
+    margin-top: 2vh;
+    margin-right: 8vw;
+    text-align: center;
+    
+}
+
+.dane-text{
+    border: 2px solid grey;
+    padding-inline: 30px;
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    
+}
+.dane-form{
+    margin-left: 8vw;
+    margin-top: 2vh;
+    margin-right: 8vw;
+    padding-inline: 1rem;
+}
+.btn{
+    margin: 10px;
+    padding: 10px;
+}
+.wynik{
+    margin-left: 10vw;
+    margin-top: 5vh;
+    margin-right: 10vw;
+    text-align: center;
+}
+.tipy{
+    border: 2px solid green;
+    margin-left: 5vw;
+    margin-top: 2vh;
+    margin-right: 5vw;
+    margin-bottom: 5vh;
+    
+
+}
+.img1{
+    display: block;
+    max-width: 100%;
+}
